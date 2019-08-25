@@ -2,7 +2,7 @@
 
 This project contains a [Jupyter notebook](traffic-cameras-k-means.ipynb), together with the relevant geospatial data, that demonstrates how to use [Amazon SageMaker](https://aws.amazon.com/sagemaker/) and the [k-means alogrithm](https://docs.aws.amazon.com/sagemaker/latest/dg/k-means.html) to determine clusters for the locations of traffic cameras in Hong Kong.
 
-Below is an example visualisation, with red dots representing traffic camera locations, and blue triangles representing cluster centroids.
+Below is an example visualisation for *k = 15*, with red dots representing traffic camera locations, and blue triangles representing cluster centroids.
 
 ![Traffic camera locations and cluster centroids in Hong Kong](images/map.png)
 
